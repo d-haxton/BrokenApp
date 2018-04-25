@@ -36,10 +36,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-	<ProjectReference Include="..\BrokenAppNative\BrokenAppNative.vcxproj">
-		<ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-		<OutputItemType>Content</OutputItemType>
-	  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    <ProjectReference Include="..\BrokenAppNative\BrokenAppNative.vcxproj">
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <OutputItemType>Content</OutputItemType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </ProjectReference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
